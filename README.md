@@ -6,7 +6,7 @@ En esta tarea he creado pruebas automatizadas para la página de login de SauceD
 
 ## Preguntas
 
-### ¿Qué hace la anotación `@BeforeEach`?
+### ¿Qué hace la anotación @BeforeEach?
 
 La anotación **@BeforeEach** se ejecuta antes de cada test. La utilizo para dejar todo preparado antes de cada prueba, por ejemplo iniciar el navegador, maximizar la ventana y abrir la página de SauceDemo.
 
