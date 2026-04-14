@@ -4,7 +4,7 @@ En esta tarea he creado pruebas automatizadas para la página de login de SauceD
 
 ---
 
-## Cuestiones
+## Preguntas
 
 ### ¿Qué hace la anotación `@BeforeEach`?
 
